@@ -1,0 +1,14 @@
+{
+  "name": "node-walkthrough",
+  "version": "1.0.0",
+  "description": "Follow along to the node walkthrough on covalence",
+  "main": "server/server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Tremain Jones",
+  "license": "ISC",
+  "dependencies": {
+    "request": "^2.88.2"
+  }
+}
